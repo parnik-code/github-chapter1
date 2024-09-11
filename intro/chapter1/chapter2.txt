@@ -1,0 +1,11 @@
+Easier Learning Curve for New Developers:
+
+New developers learning Git and command-line interfaces often find it easier to use Git Bash on Windows because they can follow tutorials and documentation written for Unix-like systems without needing to adapt commands for the Windows environment.
+How Windows Users Use Git Bash
+Install Git Bash:
+
+Git Bash comes bundled with Git for Windows. You can download and install Git for Windows from the official site.
+During installation, you can choose to use Git Bash as your default terminal for Git commands.
+Running Git Bash:
+
+After installation, you can launch Git Bash by searching for it in t
