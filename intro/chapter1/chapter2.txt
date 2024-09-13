@@ -7,5 +7,4 @@ Install gatsby Bash:
 gatsby Bash comes bundled with gatsby for Windows. You can download and install gatsby for Windows from the official site.
 During installation, you can choose to use gatsby Bash as your default terminal for gatsby commands.
 Running gatsby Bash:
-
 After insthksdkdallation, you can launch gatsby Bash by searching for it in t
