@@ -1,3 +1,6 @@
+=============
+chapter2
+============
 Easier Learning Curve for New Developers:
 
 New developers learning gatsby and command-line interfaces often find it easier to use gatsby Bash on Windows because they can follow tutorials and documentation written for Unix-like systems without needing to adapt commands for the Windows environment.
